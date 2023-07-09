@@ -1,35 +1,26 @@
 # Hi there 👋
 
-I'm a software developer with a passion for learning and teaching.
-
-## 📫 How to reach me
-
-<a href="https://twitter.com/vckouma">
-  <img src="https://twitter.com/twitter-logo.png" alt="Twitter" width="30" height="30">
-</a>
-
-<a href="https://www.linkedin.com/in/yourusername/">
-  <img src="https://example.com/linkedin-logo.png" alt="LinkedIn" width="30" height="30">
-</a>
-
-<a href="https://www.instagram.com/your_username/">
-  <img src="https://example.com/instagram-logo.png" alt="Instagram" width="30" height="30">
-</a>
+I'm a software developer with a passion for learning and teaching
 
 
+## 🔭 I’m currently working on
 
+- [ ] [A blog]()
 
-<!--
-**csoftalt/csoftalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 I’m currently learning
 
-Here are some ideas to get you started:
+- [ ] [Rust](https://www.rust-lang.org/)
+- [ ] [python](https://www.python.org/)
+- [ ] [javascript](https://www.javascript.com/)
+- [ ] [typescript](https://www.typescriptlang.org/)
+- [ ] [react](https://reactjs.org/)
+- [ ] [nextjs](https://nextjs.org/)
+- [ ] [nodejs](https://nodejs.org/en/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me:
+
+- [ ] [Twitter](https://twitter.com/vckouma)
+- [ ] [LinkedIn](https://www.linkedin.com/in/vckouma/)
+- [ ] [Email](mailto:csoftalt@gmail.com)
+
+<!-- -->
