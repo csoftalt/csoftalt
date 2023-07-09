@@ -4,29 +4,18 @@ I'm a software developer with a passion for learning and teaching.
 
 ## 📫 How to reach me
 
-- [LinkedIn](https://www.linkedin.com/in/csoftalt/)
-- [Twitter](https://twitter.com/csoftalt)
-- [Stack Overflow](https://stackoverflow.com/users/10263/csoftalt)
-- [GitHub]() (you're already here)
+<a href="https://twitter.com/your_username">
+  <img src="https://example.com/twitter-logo.png" alt="Twitter" width="30" height="30">
+</a>
 
-## 🌱 I’m currently learning
+<a href="https://www.linkedin.com/in/yourusername/">
+  <img src="https://example.com/linkedin-logo.png" alt="LinkedIn" width="30" height="30">
+</a>
 
-- [Rust](https://www.rust-lang.org/)
-- [Go](https://golang.org/)
-- [Kubernetes](https://kubernetes.io/)
-- [Docker](https://www.docker.com/)
+<a href="https://www.instagram.com/your_username/">
+  <img src="https://example.com/instagram-logo.png" alt="Instagram" width="30" height="30">
+</a>
 
-
-## 💬 Ask me about
-
-- [python](https://www.python.org/)
-- [SQL](https://en.wikipedia.org/wiki/SQL)
-- [javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [React](https://reactjs.org/)
-- [Redux](https://redux.js.org/)
-- [Node.js](https://nodejs.org/en/)
 
 
 
