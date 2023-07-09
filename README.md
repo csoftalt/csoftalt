@@ -4,8 +4,8 @@ I'm a software developer with a passion for learning and teaching.
 
 ## 📫 How to reach me
 
-<a href="https://twitter.com/your_username">
-  <img src="https://example.com/twitter-logo.png" alt="Twitter" width="30" height="30">
+<a href="https://twitter.com/vckouma">
+  <img src="https://twitter.com/twitter-logo.png" alt="Twitter" width="30" height="30">
 </a>
 
 <a href="https://www.linkedin.com/in/yourusername/">
